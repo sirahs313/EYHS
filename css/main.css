@@ -5,8 +5,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+* {
+    font-family: 'Poppins',cursive;
+}
 .greetings {
-  font-family: 'Poppins',cursive;
+ 
   font-size: 4rem;
   font-weight: 900;
   position: absolute;
