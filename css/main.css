@@ -10,8 +10,8 @@
 }
 .greetings {
  
-  font-size: 4rem;
-  font-weight: 900;
+  font-size: 2rem;
+  font-weight: 500;
   position: absolute;
   top: 50px; /* Ajusta la posición vertical */
   left: 50%;
