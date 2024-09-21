@@ -82,7 +82,7 @@ body{
     cursor: pointer;
     position: relative; /* Necesario para el resplandor */
     border-radius: 20px; /* Esquinas redondeadas */
-    transition: background-color 0.3s ease-in-out; /* Transición suave para el color de fondo */
+    transition: background-color 0.1s ease-in-out; /* Transición suave para el color de fondo */
   }
   
   /* Estilo para el enlace dentro del botón */
