@@ -8,6 +8,18 @@
 * {
     font-family: 'Poppins',cursive;
 }
+.text-over-flowers {
+    position: absolute;
+    top: 50px; /* Ajusta la posición vertical */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10; /* Asegura que el texto esté encima */
+    color: white; /* Cambia el color del texto según prefieras */
+    font-size: 36px; /* Ajusta el tamaño del texto */
+    font-weight: bold;
+    text-align: center;
+}
+
 .greetings {
  
   font-size: 2rem;
